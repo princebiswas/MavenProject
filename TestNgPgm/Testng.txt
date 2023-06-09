@@ -1,0 +1,45 @@
+Testng - it is a Unit Testing Framework 
+
+Unit Testing - Developer and we can say that code base Testing 
+
+TestNg is also known as TDD Framework - Test  driven development  - testng.xml
+
+
+testNg is depends on Annotations --- @Test - mandatory
+
+
+if we are using Testng annotation no  need to use psvm 
+
+
+PSVM  -- can we overirde 
+
+No 
+
+@Test - lib -- psvm
+
+@psvm
+
+
+
+@BeforeMethod -- it will execute before every @Test
+@AfterMethod-- It will execute after every @Test
+
+@Bm
+@Test - Test1()
+@Test-- Test2()
+@Test- Test3()
+@Am
+
+
+@BeforeClass --  It will execute before but only once any of the @Test
+@AfterClass - it will execute after but only once any of the @Test
+
+
+@Bc
+@Test
+@test
+@test
+@AC
+
+
+
